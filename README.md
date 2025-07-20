@@ -1,2 +1,16 @@
-# BirthdayBot
-BirthdayBit is a UiPath automation bot designed to automatically send birthday wishes to employees based on an Excel sheet containing employee names and their birthdates. The bot reads the Excel file daily, checks for any matching birthdays, and sends personalized birthday greetings through a configured messaging platform.
+# 🎉 BirthdayBit - UiPath Automation Project
+
+BirthdayBit is a UiPath-based RPA bot that automates the process of sending birthday wishes to employees. The bot reads an Excel sheet with employee names and birthdates, checks daily for matching birthdays, and automatically sends out a personalized message to celebrate their special day.
+
+---
+
+## 📌 Features
+
+- ✅ Reads employee data from an Excel file
+- ✅ Checks today's date against birthdates
+- ✅ Sends birthday messages automatically
+- ✅ Easy to configure and update
+- ✅ Reduces manual effort in HR workflows
+
+---
+
